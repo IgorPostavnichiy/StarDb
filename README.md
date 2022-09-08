@@ -2,6 +2,6 @@
 
 ## Результат можно посмотреть тут :
 
-https://igorpostavnichiy.github.io/starships
+https://igorpostavnichiy.github.io/
 
  
