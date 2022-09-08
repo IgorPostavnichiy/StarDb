@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StarDb/static/css/main.90224106.css",
+    "main.js": "/StarDb/static/js/main.32b41deb.js",
+    "index.html": "/StarDb/index.html",
+    "main.90224106.css.map": "/StarDb/static/css/main.90224106.css.map",
+    "main.32b41deb.js.map": "/StarDb/static/js/main.32b41deb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90224106.css",
+    "static/js/main.32b41deb.js"
+  ]
+}
