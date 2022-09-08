@@ -1,0 +1,28 @@
+.error-indicator {
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 280px;
+    color: rgba(155, 10, 245, 0.789);;
+   
+}
+
+.error-indicator .boom {
+    font-size: 25px;
+    display: block;
+    text-align: center;
+}
+
+.error-indicator span {
+    display: block;
+    font-size: 18px;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 110px;
+    line-height: 100px;
+    margin-left: 80px;
+}
