@@ -2,6 +2,6 @@
 
 ## Результат можно посмотреть тут :
 
-https://igorpostavnichiy.github.io/
+ https://igorpostavnichiy.github.io/StarDb/
 
  
